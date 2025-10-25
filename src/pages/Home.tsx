@@ -45,7 +45,7 @@ const Home = () => {
           <div className="relative order-1 lg:order-2 mb-8 lg:mb-0 px-4 sm:px-6 lg:px-0">
             <div className="relative rounded-xl shadow-2xl overflow-hidden bg-white dark:bg-gray-800 p-1 sm:p-2 max-w-lg mx-auto lg:max-w-none">
               <img
-                src="https://res.cloudinary.com/dsa4zu6en/image/upload/v1761393688/Screenshot_2025-10-25_171738_ehdyma.png"
+                src="https://res.cloudinary.com/dsa4zu6en/image/upload/v1761394132/Screenshot_2025-10-25_173018_snpi4n.png"
                 alt="SketchDB Database Diagram Editor Interface"
                 className="w-full h-auto rounded-lg"
               />
